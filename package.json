@@ -1,0 +1,25 @@
+{
+  "name": "typescript-testing",
+  "version": "0.0.1",
+  "description": "Jest and enzyme with type script",
+  "main": "index.js",
+  "author": "Sai Ram Somanaboina",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/enzyme": "^3.1.12",
+    "@types/enzyme-adapter-react-16": "^1.0.2",
+    "@types/jest": "^23.3.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme-to-json": "^3.3.4",
+    "jest": "^23.4.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "ts-jest": "^23.0.1",
+    "typescript": "^3.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
